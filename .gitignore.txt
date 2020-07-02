@@ -1,1 +1,4 @@
 # backend_test_homework
+
+#игнорировать следующий файл
+README.md
